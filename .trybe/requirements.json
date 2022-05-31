@@ -1,0 +1,37 @@
+{
+    "requirements": [
+      {
+        "description": "add - Cenário de Sucesso",
+        "bonus": false
+      },
+      {
+        "description": "findById - Cenário de Sucesso",
+        "bonus": false
+      },
+      {
+        "description": "findById - Cenário de Erro - Livro não encontrado (404)",
+        "bonus": false
+      },
+      {
+        "description":"findAll - Cenário de Sucesso",
+        "bonus":false
+      },
+      {
+        "description":"update - Cenário de Sucesso",
+        "bonus":false
+      },
+      {
+        "description":"update - Cenário de Erro - Livro não encontrado (404)",
+        "bonus":false
+      },
+      {
+        "description":"remove - Cenário de Sucesso",
+        "bonus":false
+      },
+      {
+        "description":"remove - Cenário de Erro - Livro não encontrado (404)",
+        "bonus":false
+      }
+    ]
+}
+  
